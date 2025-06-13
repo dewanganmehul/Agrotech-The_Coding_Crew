@@ -1,4 +1,4 @@
-                                                      🌾 AgroTech – The Coding Crew 🌾
+                                                    🌾 AgroTech – The Coding Crew 🌾
 🚜 Empowering Farmers Through Fair Trade 🚜
 AgroTech is a web platform designed to connect farmers directly with middlemen to enable transparent, fair, and localized crop pricing.
 By eliminating unnecessary intermediaries, AgroTech ensures that both farmers and buyers can negotiate, interact, and transact seamlessly, fostering better profits and trust-based trade relationships. 🤝
